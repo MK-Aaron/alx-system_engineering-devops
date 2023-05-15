@@ -2,6 +2,10 @@
 
 ### <u>Description of each file</u>
 
-1. Script that prints Hello World to the Standard output.
+1. Script prints Hello World to the Standard output.
 
-2. Script that displays a confused smiley.
+2. Scrip displays a confused smiley.
+
+3. Script Display the content of the /etc/passwd file.
+
+4.
