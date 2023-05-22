@@ -1,2 +1,2 @@
 #!/bin/bash
-pate -d, -- | cut -d, -f 1
+pate -d -- | cut -d -f1
