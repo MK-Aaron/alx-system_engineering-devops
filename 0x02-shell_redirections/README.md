@@ -48,4 +48,10 @@
 
 > [22-users_and_homes](./22-users_and_homes): Script that displays all users and their home directories, sorted by users.
 
-> [100-empty_casks](./100-empty_casks): Command that finds all empty files and directories in the current directory and all sub-directories. 
+> [100-empty_casks](./100-empty_casks): Command that finds all empty files and directories in the current directory and all sub-directories.
+
+> [101-gifs](./101-gifs): Script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+> [102-acrostic](./102-acrostic): Script that decodes acrostics that use the first letter of each line.
+
+> [103-the_biggest_fan](./103-the_biggest_fan): Script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
