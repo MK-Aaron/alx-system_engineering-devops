@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# Script prints a loop ten times using untill loop
-i=0
-until [ $i -eq 10 ]
-do
-	echo "Best School"
-	((i++))
-done
